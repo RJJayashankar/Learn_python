@@ -6,7 +6,9 @@ def main():
 
 
 def print_meow():
-    print("meow meow meow")
+    print("meow")
+    print("meow")
+    print("meow")
 
 
 main()
