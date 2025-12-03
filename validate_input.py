@@ -5,8 +5,8 @@ def main():
 
 def validate_if_no_positive(n):
     while True:
-        if n <=0:
-            answer = "enter positive number"
+        if n > 0:
+            break
         else:
             return n
         
